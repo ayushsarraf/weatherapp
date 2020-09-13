@@ -2,6 +2,8 @@
 
 > weather app using vue
 
+## Checkout website branch for final build files
+
 ## Build Setup
 
 ``` bash
